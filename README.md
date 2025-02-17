@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('Ein_stilvoller_und_moderner_Hintergrund_für_einen_.png') no-repeat center center fixed;
+            background: url('https://imgur.com/a/h47vy29') no-repeat center center fixed;
             background-size: cover;
         }
         header {
@@ -17,8 +16,13 @@
             color: white;
             text-align: center;
             padding: 20px;
-            font-size: 24px;
+        }
+        .shop-title {
+            font-size: 60px;
             font-weight: bold;
+            text-align: center;
+            color: #ff9800;
+            text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
         }
         nav {
             text-align: center;
@@ -54,7 +58,6 @@
         }
         .products {
             display: flex;
-            flex-wrap: wrap;
             justify-content: space-between;
             align-items: stretch;
         }
@@ -73,6 +76,11 @@
         .product img {
             width: 100%;
             border-radius: 10px;
+        }
+        .product p strong {
+            display: block;
+            font-size: 20px;
+            margin-top: 10px;
         }
         .buy-button {
             display: inline-block;
@@ -95,7 +103,7 @@
 </head>
 <body>
     <header>
-        Willkommen bei 4Deals - Die besten Angebote online!
+        <div class="shop-title">4Deals - Die besten Angebote online!</div>
     </header>
     <nav>
         <a href="#home">Home</a>
