@@ -106,18 +106,18 @@
         <h2>Unsere Bestseller</h2>
         <div class="products">
             <div class="product">
-                <img src=["https://m.media-amazon.com/images/I/71RargTF1hL._AC_SL1500_.jpg" alt="Smartwatch"](https://m.media-amazon.com/images/I/71RargTF1hL._AC_SL1500_.jpg )>
+                <img src="https://m.media-amazon.com/images/I/71RargTF1hL._AC_SL1500_.jpg" alt="Smartwatch">
                 <h3>Smartwatch mit integrierten Kopfhörern</h3>
                 <p>2-in-1 Bluetooth Smartwatch mit Fitness-Tracker und kabellosen Ohrhörern.</p>
-                <p><strong>99,00€ €</strong></p>
+                <p><strong>59,99 €</strong></p>
                 <a href="https://www.amazon.de/dp/B0CL3XMK1F" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src=[["https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker"](https://www.amazon.de/Fitbit-Aktivit%C3%A4tstracker-monatige-Mitgliedschaft-Akkulaufzeit/dp/B0CHN3W617/ref=sr_1_3?crid=55AHGVT1PMWU&dib=eyJ2IjoiMSJ9.-VxzAQzjXxjEkRqITxgjfTEzU_YswxlTlHJMCSob1kHVHXJdxh4l07J-re1hEaVahJl4kosgVqxiSVbKBifyA1b-nJtYjyTm5vNuWT7unABMOPvVw-lFc7xHKwQK6DauM1sBhw1emVM14Ly3ocVk9TRbq_DlawYH8-TnP_jll7Q1tAWDIFmWt7i1YEqJIEHMMzxK4Z7MgT6_04C52Erx2i0a_L_MgiAbqep2IJJGJVAorq6XODctYq29wM23fcWWtYNKv0MmMr5YO88QqruMbJjs5yuJlfxikdym6BxsDtfWxWo7IchGnzGPLwi-G54G179346N7RWIEXIUm8OvnOBSf1C-8B-BhKsQIXTdUFCc.yBlkcX3WcMT6sfSYFd1NPrFKbVxxWtWFL_071Qy2SY0&dib_tag=se&keywords=fitness%2Btracker&qid=1739763372&s=ce-de&sprefix=fitness%2B%2Celectronics%2C86&sr=1-3&th=1)>
-                <h3>Fitness-Tracker</h3](https://m.media-amazon.com/images/I/61YXNim+iQL._AC_SL1500_.jpg)>
+                <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
+                <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem fortschrittlichen Fitness-Tracker.</p>
-                <p><strong>105,00€ €</strong></p>
-                <a href=["https://www.amazon.de/dp/B09D3HN8RL"](https://www.amazon.de/Fitbit-Aktivit%C3%A4tstracker-monatige-Mitgliedschaft-Akkulaufzeit/dp/B0CHN3W617/ref=sr_1_3?crid=55AHGVT1PMWU&dib=eyJ2IjoiMSJ9.-VxzAQzjXxjEkRqITxgjfTEzU_YswxlTlHJMCSob1kHVHXJdxh4l07J-re1hEaVahJl4kosgVqxiSVbKBifyA1b-nJtYjyTm5vNuWT7unABMOPvVw-lFc7xHKwQK6DauM1sBhw1emVM14Ly3ocVk9TRbq_DlawYH8-TnP_jll7Q1tAWDIFmWt7i1YEqJIEHMMzxK4Z7MgT6_04C52Erx2i0a_L_MgiAbqep2IJJGJVAorq6XODctYq29wM23fcWWtYNKv0MmMr5YO88QqruMbJjs5yuJlfxikdym6BxsDtfWxWo7IchGnzGPLwi-G54G179346N7RWIEXIUm8OvnOBSf1C-8B-BhKsQIXTdUFCc.yBlkcX3WcMT6sfSYFd1NPrFKbVxxWtWFL_071Qy2SY0&dib_tag=se&keywords=fitness%2Btracker&qid=1739763372&s=ce-de&sprefix=fitness%2B%2Celectronics%2C86&sr=1-3&th=1) class="buy-button">Jetzt kaufen</a>
+                <p><strong>39,99 €</strong></p>
+                <a href="https://www.amazon.de/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
                 <img src="https://m.media-amazon.com/images/I/61D4Z3L7rXL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
