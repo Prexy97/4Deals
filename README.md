@@ -31,7 +31,7 @@
         .hero {
             text-align: center;
             padding: 50px;
-            background: url('https://source.unsplash.com/1600x600/?ecommerce') no-repeat center center/cover;
+            background: url('https://source.unsplash.com/1600x600/?shopping') no-repeat center center/cover;
             color: white;
         }
         .container {
@@ -59,6 +59,15 @@
         .product img {
             width: 100%;
             border-radius: 10px;
+        }
+        .buy-button {
+            display: inline-block;
+            padding: 10px 15px;
+            margin-top: 10px;
+            background-color: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
         }
         footer {
             background-color: #333;
@@ -90,22 +99,25 @@
         <h2>Unsere Bestseller</h2>
         <div class="products">
             <div class="product">
-                <img src="https://source.unsplash.com/300x300/?smartwatch" alt="Smartwatch">
+                <img src="https://example.com/smartwatch.jpg" alt="Smartwatch">
                 <h3>Smartwatch</h3>
                 <p>Stylische und funktionale Smartwatch für den Alltag.</p>
                 <p><strong>49,99€</strong></p>
+                <a href="https://example.com/smartwatch" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://source.unsplash.com/300x300/?fitness" alt="Fitness-Tracker">
+                <img src="https://example.com/fitness-tracker.jpg" alt="Fitness-Tracker">
                 <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem Fitness-Tracker.</p>
                 <p><strong>39,99€</strong></p>
+                <a href="https://example.com/fitness-tracker" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://source.unsplash.com/300x300/?headphones" alt="Kabellose Kopfhörer">
+                <img src="https://example.com/headphones.jpg" alt="Kabellose Kopfhörer">
                 <h3>Kabellose Kopfhörer</h3>
                 <p>Hochwertiger Sound, komplett kabellos.</p>
                 <p><strong>59,99€</strong></p>
+                <a href="https://example.com/headphones" class="buy-button">Jetzt kaufen</a>
             </div>
         </div>
     </div>
