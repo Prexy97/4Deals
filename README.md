@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('https://imgur.com/a/h47vy29') no-repeat center center fixed;
+            background: url('https://i.imgur.com/h47vy29.jpg') no-repeat center center fixed;
             background-size: cover;
         }
         header {
@@ -81,6 +81,7 @@
             display: block;
             font-size: 20px;
             margin-top: 10px;
+            min-height: 30px;
         }
         .buy-button {
             display: inline-block;
