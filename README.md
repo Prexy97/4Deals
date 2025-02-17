@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mein Dropshipping-Shop</title>
+    <title>4Deals - Dein Online-Shop</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -80,7 +80,7 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen in meinem Dropshipping-Shop</h1>
+        <h1>Willkommen bei 4Deals - Dein Online-Shop</h1>
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -89,10 +89,10 @@
     </nav>
     <section class="hero">
         <h2>Beste Produkte – Direkt zu dir!</h2>
-        <p>Finde die besten Angebote in unserem exklusiven Dropshipping-Shop.</p>
+        <p>Finde die besten Angebote in unserem exklusiven Online-Shop.</p>
     </section>
     <div class="container">
-        <h2>Über unseren Shop</h2>
+        <h2>Über 4Deals</h2>
         <p>Wir bieten hochwertige Produkte direkt von den besten Lieferanten. Kein Zwischenhändler – nur die besten Preise für dich!</p>
     </div>
     <div class="container" id="produkte">
@@ -123,10 +123,10 @@
     </div>
     <div class="container" id="kontakt">
         <h2>Kontakt</h2>
-        <p>Hast du Fragen? Kontaktiere uns per E-Mail: <strong>support@meinshop.de</strong></p>
+        <p>Hast du Fragen? Kontaktiere uns per E-Mail: <strong>support@4deals.de</strong></p>
     </div>
     <footer>
-        &copy; 2025 Mein Dropshipping-Shop | Alle Rechte vorbehalten
+        &copy; 2025 4Deals | Alle Rechte vorbehalten
     </footer>
 </body>
 </html>
