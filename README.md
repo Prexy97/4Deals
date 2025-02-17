@@ -12,27 +12,33 @@
             background-color: #f4f4f4;
         }
         header {
-            background-color: #333;
+            background-color: #ff9800;
             color: white;
             text-align: center;
             padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
         }
         nav {
             text-align: center;
             padding: 15px;
-            background-color: #555;
+            background-color: #333;
         }
         nav a {
             color: white;
             text-decoration: none;
             margin: 0 15px;
             font-size: 18px;
+            font-weight: bold;
         }
         .hero {
             text-align: center;
             padding: 50px;
-            background: url('https://source.unsplash.com/1600x600/?shopping') no-repeat center center/cover;
+            background: url('https://source.unsplash.com/1600x600/?shopping,ecommerce') no-repeat center center/cover;
             color: white;
+            font-size: 24px;
+            font-weight: bold;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
         }
         .container {
             max-width: 1100px;
@@ -41,6 +47,7 @@
             background: white;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             border-radius: 10px;
+            text-align: center;
         }
         .products {
             display: flex;
@@ -68,6 +75,7 @@
             color: white;
             text-decoration: none;
             border-radius: 5px;
+            font-weight: bold;
         }
         footer {
             background-color: #333;
@@ -80,7 +88,7 @@
 </head>
 <body>
     <header>
-        <h1>Willkommen bei 4Deals - Dein Online-Shop</h1>
+        Willkommen bei 4Deals - Die besten Angebote online!
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -88,8 +96,7 @@
         <a href="#kontakt">Kontakt</a>
     </nav>
     <section class="hero">
-        <h2>Beste Produkte – Direkt zu dir!</h2>
-        <p>Finde die besten Angebote in unserem exklusiven Online-Shop.</p>
+        Jetzt Top-Produkte zum besten Preis sichern!
     </section>
     <div class="container">
         <h2>Über 4Deals</h2>
@@ -99,25 +106,25 @@
         <h2>Unsere Bestseller</h2>
         <div class="products">
             <div class="product">
-                <img src="https://example.com/smartwatch.jpg" alt="Smartwatch">
+                <img src="https://m.media-amazon.com/images/I/71p11eHnXXL._AC_SL1500_.jpg" alt="Smartwatch">
                 <h3>Smartwatch</h3>
                 <p>Stylische und funktionale Smartwatch für den Alltag.</p>
                 <p><strong>49,99€</strong></p>
-                <a href="https://example.com/smartwatch" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B08P5V3V8V" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://example.com/fitness-tracker.jpg" alt="Fitness-Tracker">
+                <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
                 <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem Fitness-Tracker.</p>
                 <p><strong>39,99€</strong></p>
-                <a href="https://example.com/fitness-tracker" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://example.com/headphones.jpg" alt="Kabellose Kopfhörer">
+                <img src="https://m.media-amazon.com/images/I/61D4Z3L7rXL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
                 <h3>Kabellose Kopfhörer</h3>
                 <p>Hochwertiger Sound, komplett kabellos.</p>
                 <p><strong>59,99€</strong></p>
-                <a href="https://example.com/headphones" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
             </div>
         </div>
     </div>
