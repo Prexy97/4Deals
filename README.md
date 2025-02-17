@@ -113,7 +113,7 @@
                 <a href="https://www.amazon.de/dp/B0CL3XMK1F" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
+                <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg](https://m.media-amazon.com/images/I/61YXNim+iQL._AC_SL1500_.jpg" alt="Fitness-Tracker">
                 <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem fortschrittlichen Fitness-Tracker.</p>
                 <p><strong>105,00 €</strong></p>
