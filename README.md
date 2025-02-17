@@ -102,11 +102,6 @@
         <h2>Jetzt Top-Produkte zum besten Preis sichern!</h2>
         <p>Finde die besten Angebote in unserem exklusiven Online-Shop.</p>
     </section>
-    <div class="container">
-        <h2>Über 4Deals</h2>
-        <p>Wir bieten hochwertige Produkte direkt von den besten Lieferanten. Kein Zwischenhändler – nur die besten Preise für dich!</p>
-        <p>Unser Ziel ist es, dir eine einfache und sichere Shopping-Erfahrung zu bieten.</p>
-    </div>
     <div class="container" id="produkte">
         <h2>Unsere Bestseller</h2>
         <div class="products">
@@ -115,36 +110,23 @@
                 <h3>Smartwatch mit integrierten Kopfhörern</h3>
                 <p>2-in-1 Bluetooth Smartwatch mit Fitness-Tracker und kabellosen Ohrhörern.</p>
                 <p><strong>59,99 €</strong></p>
-                <a href="https://www.amazon.com/dp/B08P5V3V8V" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B0CL3XMK1F" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
                 <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
                 <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem fortschrittlichen Fitness-Tracker.</p>
                 <p><strong>39,99 €</strong></p>
-                <a href="https://www.amazon.com/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
                 <img src="https://m.media-amazon.com/images/I/61D4Z3L7rXL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
                 <h3>Kabellose Kopfhörer</h3>
                 <p>Genieße hochwertigen Sound mit unseren kabellosen Kopfhörern.</p>
                 <p><strong>59,99 €</strong></p>
-                <a href="https://www.amazon.com/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
+                <a href="https://www.amazon.de/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
             </div>
         </div>
-    </div>
-    <div class="container" id="kontakt">
-        <h2>Kontakt</h2>
-        <p>Hast du Fragen? Kontaktiere uns per E-Mail: <strong>support@4deals.de</strong></p>
-        <p>Oder besuche unsere Social Media Seiten:</p>
-        <ul>
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Instagram</a></li>
-            <li><a href="#">Twitter</a></li>
-        </ul>
-        <h2>FAQ - Häufig gestellte Fragen</h2>
-        <p><strong>Wie lange dauert der Versand?</strong><br>In der Regel 3-5 Werktage.</p>
-        <p><strong>Gibt es eine Garantie?</strong><br>Ja, wir bieten eine 12-monatige Garantie auf alle Produkte.</p>
     </div>
     <footer>
         <p>&copy; 2025 4Deals | Alle Rechte vorbehalten</p>
