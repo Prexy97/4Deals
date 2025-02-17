@@ -117,7 +117,7 @@
                 <a href="https://www.amazon.de/dp/B08P5V3V8V" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
+                <img src=<img class="image--element" src="https://aetka.de/shop/media/image/d7/3a/43/99d03fc9-fbb4-414a-a412-bf18ca4f2a34_screenGrjleLwEJJUDAs1.jpg" alt="swisstone SW 630 BT (Black)" data-extension=""> alt="Fitness-Tracker">
                 <h3>Fitness-Tracker</h3>
                 <p>Überwache deine Aktivitäten mit unserem Fitness-Tracker.</p>
                 <p><strong>39,99€</strong></p>
