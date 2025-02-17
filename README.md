@@ -120,11 +120,11 @@
                 <a href="https://www.amazon.de/dp/B0CHN3W617" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
-                <img src="https://m.media-amazon.com/images/I/61YXNim+iQL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
-                <h3>Kabellose Kopfhörer</h3>
-                <p>Genieße hochwertigen Sound mit unseren kabellosen Kopfhörern.</p>
-                <p><strong>59,99 €</strong></p>
-                <a href="https://www.amazon.de/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
+                <img src="https://m.media-amazon.com/images/I/71rNAXcPZ2L._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
+                <h3>LETSACTIV Funkkopfhörer</h3>
+                <p>Kabellose TV-Kopfhörer mit Sender-Ladestation, ideal für Senioren.</p>
+                <p><strong>89,99 €</strong></p>
+                <a href="https://www.amazon.de/dp/B0CTMJLR6Q" class="buy-button">Jetzt kaufen</a>
             </div>
         </div>
     </div>
