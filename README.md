@@ -109,7 +109,7 @@
                 <img src=["https://m.media-amazon.com/images/I/71RargTF1hL._AC_SL1500_.jpg" alt="Smartwatch"](https://m.media-amazon.com/images/I/71RargTF1hL._AC_SL1500_.jpg )>
                 <h3>Smartwatch mit integrierten Kopfhörern</h3>
                 <p>2-in-1 Bluetooth Smartwatch mit Fitness-Tracker und kabellosen Ohrhörern.</p>
-                <p><strong>59,99 €</strong></p>
+                <p><strong>99,00€ €</strong></p>
                 <a href="https://www.amazon.de/dp/B0CL3XMK1F" class="buy-button">Jetzt kaufen</a>
             </div>
             <div class="product">
