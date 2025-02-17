@@ -40,6 +40,9 @@
             font-weight: bold;
             text-shadow: none;
         }
+        .hero p {
+            color: black;
+        }
         .container {
             max-width: 1100px;
             margin: 20px auto;
@@ -96,7 +99,7 @@
         <a href="#kontakt">Kontakt</a>
     </nav>
     <section class="hero">
-        Beste Produkte – Direkt zu dir!
+        Jetzt Top-Produkte zum besten Preis sichern!
         <p>Finde die besten Angebote in unserem exklusiven Online-Shop.</p>
     </section>
     <div class="container">
