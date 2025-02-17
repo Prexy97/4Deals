@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('https://i.imgur.com/h47vy29.jpg') no-repeat center center fixed;
+            background: url('897d4da4-c32b-472d-aed7-503c63c51e67.jpg') no-repeat center center fixed;
             background-size: cover;
         }
         header {
@@ -16,13 +16,6 @@
             color: white;
             text-align: center;
             padding: 20px;
-        }
-        .shop-title {
-            font-size: 60px;
-            font-weight: bold;
-            text-align: center;
-            color: black;
-            text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
         }
         nav {
             text-align: center;
@@ -59,7 +52,7 @@
         .products {
             display: flex;
             justify-content: space-between;
-            align-items: stretch;
+            align-items: flex-start;
         }
         .product {
             background: white;
@@ -76,6 +69,9 @@
         .product img {
             width: 100%;
             border-radius: 10px;
+        }
+        .product p {
+            min-height: 60px;
         }
         .product p strong {
             display: block;
