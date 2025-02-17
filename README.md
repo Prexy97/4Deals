@@ -116,28 +116,29 @@
                 <p><strong>49,99€</strong></p>
                 <a href="https://www.amazon.de/dp/B08P5V3V8V" class="buy-button">Jetzt kaufen</a>
             </div>
-            <div class="product">
-                <img src=<img class="image--element" src="https://aetka.de/shop/media/image/d7/3a/43/99d03fc9-fbb4-414a-a412-bf18ca4f2a34_screenGrjleLwEJJUDAs1.jpg" alt="swisstone SW 630 BT (Black)" data-extension=""> alt="Fitness-Tracker">
-                <h3>Fitness-Tracker</h3>
-                <p>Überwache deine Aktivitäten mit unserem Fitness-Tracker.</p>
-                <p><strong>39,99€</strong></p>
-                <a href="https://www.amazon.de/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
-            </div>
-            <div class="product">
-                <img src="https://m.media-amazon.com/images/I/61D4Z3L7rXL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
-                <h3>Kabellose Kopfhörer</h3>
-                <p>Hochwertiger Sound, komplett kabellos.</p>
-                <p><strong>59,99€</strong></p>
-                <a href="https://www.amazon.de/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
-            </div>
+            <div class="container" id="produkte">
+    <h2>Unsere Bestseller</h2>
+    <div class="products">
+        <div class="product">
+            <img src="https://m.media-amazon.com/images/I/71p11eHnXXL._AC_SL1500_.jpg" alt="Smartwatch">
+            <h3>Smartwatch</h3>
+            <p>Stylische und funktionale Smartwatch für den Alltag.</p>
+            <p><strong>49,99€</strong></p>
+            <a href="https://www.amazon.de/dp/B08P5V3V8V" class="buy-button">Jetzt kaufen</a>
+        </div>
+        <div class="product">
+            <img src="https://m.media-amazon.com/images/I/51UGPqk2mVL._AC_SL1000_.jpg" alt="Fitness-Tracker">
+            <h3>Fitness-Tracker</h3>
+            <p>Überwache deine Aktivitäten mit unserem Fitness-Tracker.</p>
+            <p><strong>39,99€</strong></p>
+            <a href="https://www.amazon.de/dp/B09D3HN8RL" class="buy-button">Jetzt kaufen</a>
+        </div>
+        <div class="product">
+            <img src="https://m.media-amazon.com/images/I/61D4Z3L7rXL._AC_SL1500_.jpg" alt="Kabellose Kopfhörer">
+            <h3>Kabellose Kopfhörer</h3>
+            <p>Hochwertiger Sound, komplett kabellos.</p>
+            <p><strong>59,99€</strong></p>
+            <a href="https://www.amazon.de/dp/B093FZC64X" class="buy-button">Jetzt kaufen</a>
         </div>
     </div>
-    <div class="container" id="kontakt">
-        <h2>Kontakt</h2>
-        <p>Hast du Fragen? Kontaktiere uns per E-Mail: <strong>support@4deals.de</strong></p>
-    </div>
-    <footer>
-        &copy; 2025 4Deals | Alle Rechte vorbehalten
-    </footer>
-</body>
-</html>
+</div>
