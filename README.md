@@ -9,7 +9,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background: url('Ein_stilvoller_und_moderner_Hintergrund_für_einen_.png') no-repeat center center fixed;
+            background-size: cover;
         }
         header {
             background-color: #ff9800;
@@ -34,7 +35,6 @@
         .hero {
             text-align: center;
             padding: 50px;
-            background: url('https://source.unsplash.com/1600x600/?shopping,ecommerce') no-repeat center center/cover;
             color: black;
             font-size: 24px;
             font-weight: bold;
@@ -55,7 +55,8 @@
         .products {
             display: flex;
             flex-wrap: wrap;
-            justify-content: space-around;
+            justify-content: space-between;
+            align-items: stretch;
         }
         .product {
             background: white;
@@ -64,7 +65,10 @@
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             text-align: center;
-            width: 30%;
+            flex: 1 1 30%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
         .product img {
             width: 100%;
@@ -73,7 +77,7 @@
         .buy-button {
             display: inline-block;
             padding: 10px 15px;
-            margin-top: 10px;
+            margin-top: auto;
             background-color: #28a745;
             color: white;
             text-decoration: none;
@@ -130,7 +134,7 @@
     </div>
     <footer>
         <p>&copy; 2025 4Deals | Alle Rechte vorbehalten</p>
-        <p><a href="#agb">AGB</a> | <a href="#datenschutz">Datenschutz</a> | <a href="#impressum">Impressum</a></p>
+        <p><a href="agb.html">AGB</a> | <a href="datenschutz.html">Datenschutz</a> | <a href="impressum.html">Impressum</a></p>
     </footer>
 </body>
 </html>
