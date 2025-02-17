@@ -21,7 +21,7 @@
             font-size: 60px;
             font-weight: bold;
             text-align: center;
-            color: #ff9800;
+            color: black;
             text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.5);
         }
         nav {
