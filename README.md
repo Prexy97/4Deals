@@ -35,10 +35,10 @@
             text-align: center;
             padding: 50px;
             background: url('https://source.unsplash.com/1600x600/?shopping,ecommerce') no-repeat center center/cover;
-            color: white;
+            color: black;
             font-size: 24px;
             font-weight: bold;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+            text-shadow: none;
         }
         .container {
             max-width: 1100px;
@@ -96,7 +96,8 @@
         <a href="#kontakt">Kontakt</a>
     </nav>
     <section class="hero">
-        Jetzt Top-Produkte zum besten Preis sichern!
+        Beste Produkte – Direkt zu dir!
+        <p>Finde die besten Angebote in unserem exklusiven Online-Shop.</p>
     </section>
     <div class="container">
         <h2>Über 4Deals</h2>
